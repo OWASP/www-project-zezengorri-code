@@ -1,6 +1,6 @@
 <!--### Project Information
 * Project Level
-* Project Type
+* Project0 Type
 * Version, etc
 
 ### Downloads or Social Links
@@ -8,4 +8,4 @@
 * [Social Link](#)
 
 ### Code Repository
-* [repo](#)-->
+* [https://github.com/VascoArreaza/OWASPZezengorri](#)-->
