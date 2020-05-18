@@ -49,8 +49,6 @@ auto-migrated: 1
 <ul>
 <ul>
 <li><a href="https://www.owasp.org/index.php/Projects/OWASP_Secure_Coding_Practices_-_Qui">ck_Reference_Guide/Releases/SCP_v2 Secure_Coding_Practices</a></li>
-<li><a href="https://www.owasp.org/index.php/Projects/OWASP_Secure_Coding_Practices_-_Qui">ck_Reference_Guide/Releases/SCP_v2 Secure_Coding_Practices</a></li>
-<li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Owasp Zed Attack Framework</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Owasp Zed Attack Framework</a></li>
 </ul></td>
 </ul></td>
@@ -66,7 +64,7 @@ auto-migrated: 1
 
 # FAQs
 
-\==How can I participate in our project?== If you have experience in web
+How can I participate in our project? If you have experience in web
 development using for example: Node.JS, C\# or Typescript and are interested
 in learning about applications security please contact us via the
 official mail: **gustavo.nievesarreaza@owasp.com**
