@@ -1,11 +1,7 @@
-<!--### Project Information
-* Project Level
-* Project0 Type
-* Version, etc
 
 ### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
+* [Meetup](https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/)
+
 
 ### Code Repository
 * [Code Library ESAPI .NET],(https://github.com/VascoArreaza/OWASPZezengorri)
