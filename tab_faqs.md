@@ -25,9 +25,7 @@ We are looking right now people for make our:
 
 **-QA**
 
-**-Marketing**
-
-**-Development (using Node.Js and Python)**
+**-Development (using Node.Js and Typescript)**
 
 
 # Road Map and Getting Involved
