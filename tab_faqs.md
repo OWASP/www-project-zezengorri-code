@@ -1,6 +1,6 @@
 ---
 title: FAQS
-layout:  null
+layout: null
 tab: true
 order: 1
 tags: faqs-tag
