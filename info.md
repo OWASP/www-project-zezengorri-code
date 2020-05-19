@@ -1,6 +1,6 @@
 
 ### Downloads or Social Links
-* [Meetup](https://github.com/VascoArreaza/OWASPZezengorri.gi)
+* [Meetup](https://www.meetup.com/es-ES/OWASP-Vina-del-Mar-Chapter/)
 
 
 ### Code Repository
