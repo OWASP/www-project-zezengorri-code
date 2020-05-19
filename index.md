@@ -6,7 +6,6 @@ tags: example-tag
 level: 0
 type: code
 
-auto-migrated: 1
 ---
 
 <strong>Zezengorri</strong> is the code  library Esapi to .NET to new version that allows you to add security to your development from day one. From the moment you decide to implement secure development to your projects
