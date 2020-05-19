@@ -12,9 +12,6 @@ auto-migrated: 1
 
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;"></div>
 
-<table>
-<tbody>
-<tr class="odd">
 
 <p><strong>Zezengorri</strong> is the code  library Esapi to .NET to new version that allows you to add security to your development from day one. From the moment you decide to implement secure development to your projects.</p>
    
@@ -31,9 +28,9 @@ auto-migrated: 1
 <li><a href="https://opensource.org/licenses/Frameworx-1.0">https://opensource.org/licenses/Frameworx-1.0</a></li>
 </ul>
 
-<p>as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by OWASP Years 2017-2018.</p></td>
+<p>as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by OWASP Years 2017-2018.</p>
 
-<td><h2 id="project_resources">Project Resources</h2>
+<h2 id="project_resources">Project Resources</h2>
 
 <p><a href="Https://drive.google.com/file/d/0B6d-UqLnHsOnUTZLTXVLbEZyY0E/view?usp=sharing%7CSecure">Applications Security in IT deparment</a></p>
 
