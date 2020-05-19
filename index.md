@@ -7,16 +7,10 @@ level: 0
 type: code
 
 auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
 ---
 # Main
 
-<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
-
-
-</div>
+<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;"></div>
 
 <table>
 <tbody>
@@ -63,10 +57,5 @@ auto-migrated: 1
 </tbody>
 </table>
 
-# FAQs
 
-How can I participate in our project? If you have experience in web
-development using for example: Node.JS, C\# or Typescript and are interested
-in learning about applications security please contact us via the
-official mail: **gustavo.nievesarreaza@owasp.com**
 
