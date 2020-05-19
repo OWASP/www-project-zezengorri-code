@@ -1,5 +1,5 @@
 ---
-title: Example
+title: FAQS
 layout:  null
 tab: true
 order: 1
@@ -28,14 +28,6 @@ We are looking right now people for make our:
 **-Marketing**
 
 **-Development (using Node.Js and Python)**
-
-# Acknowledgements
-
-## Volunteers
-
-The OWASP Security **Zenzengorri** Principles project is developed by a
-worldwide team of volunteers. A live update of project contributors is
-found here .
 
 
 # Road Map and Getting Involved
