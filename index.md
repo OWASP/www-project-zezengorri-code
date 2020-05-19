@@ -32,6 +32,8 @@ auto-migrated: 1
 
 <h2 id="project_resources">Project Resources</h2>
 
+<p>Resources</p>
+
 <p><a href="Https://drive.google.com/file/d/0B6d-UqLnHsOnUTZLTXVLbEZyY0E/view?usp=sharing%7CSecure">Applications Security in IT deparment</a></p>
 
 <p><a href="Https://drive.google.com/file/d/0B6d-UqLnHsOnSDlwQW5tNGRKMkxSblVWX1g0RHZuNTJjM2tV/view?usp=sharing%7CSource">Applications Security using .Net</a></p>
@@ -42,6 +44,7 @@ auto-migrated: 1
 <li><a href="https://www.owasp.org/index.php/Projects/OWASP_Secure_Coding_Practices_-_Qui">ck_Reference_Guide/Releases/SCP_v2 Secure_Coding_Practices</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Owasp Zed Attack Framework</a></li>
 </ul>
+<p>TimeL Line</p>
 <ul>
 <li><strong>[1 Nov 2017]</strong> Release Page Explain the Concept, with a white Paper</li>
 <li><strong>[3 Apr 2018]</strong> The Inacap Institute and their students also start to participate in the Zezengorri owasp <a href="https://www.inacap.cl/tportalvp/alumnos">https://www.inacap.cl/tportalvp/alumnos</a>.</li>
