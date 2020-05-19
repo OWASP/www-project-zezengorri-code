@@ -1,9 +1,9 @@
 ---
-layout: null
 title: faqs
-tags: example-tag
+layout:  null
 tab: true
 order: 1
+tags: example-tag
 ---
 
 # FAQs
