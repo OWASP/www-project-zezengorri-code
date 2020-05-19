@@ -11,11 +11,9 @@ auto-migrated: 1
 
 ### Main
 
-
-<p><strong>Zezengorri</strong> is the code  library Esapi to .NET to new version that allows you to add security to your development from day one. From the moment you decide to implement secure development to your projects.</p>
+<strong>Zezengorri</strong> is the code  library Esapi to .NET to new version that allows you to add security to your development from day one. From the moment you decide to implement secure development to your projects
    
-
-<h2 id="description">Description</h2>
+<p id="description">Description</p>
 
 <p>This project <strong>Zezengorri</strong> is a code library is a downloadable package that adheres to the root of the web project, and from them this can, analyzes and seeks to collect in a simple web page the characteristics of all the security components for examples: 
 
