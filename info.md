@@ -1,7 +1,7 @@
 
 ### Downloads or Social Links
-* [Meetup](https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/)
+* [Meetup](https://github.com/VascoArreaza/OWASPZezengorri.gi)
 
 
 ### Code Repository
-* [Code Library ESAPI to .NET],(https://github.com/VascoArreaza/OWASPZezengorri)
+* [Code Library ESAPI to .NET](https://github.com/VascoArreaza/OWASPZezengorri)
