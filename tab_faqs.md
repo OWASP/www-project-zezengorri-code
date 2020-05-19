@@ -1,7 +1,7 @@
 ---
 layout: null
-title: FAQS
-tags: faqs-tag
+title: faqs
+tags: example-tag
 tab: true
 order: 1
 ---
