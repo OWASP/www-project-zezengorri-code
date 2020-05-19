@@ -11,8 +11,6 @@ auto-migrated: 1
 
 ### Main
 
-<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;"></div>
-
 
 <p><strong>Zezengorri</strong> is the code  library Esapi to .NET to new version that allows you to add security to your development from day one. From the moment you decide to implement secure development to your projects.</p>
    
