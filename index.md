@@ -42,15 +42,12 @@ auto-migrated: 1
 
 <p>Owasp Secure Coding Practiques</p>
 <ul>
-<ul>
 <li><a href="https://www.owasp.org/index.php/Projects/OWASP_Secure_Coding_Practices_-_Qui">ck_Reference_Guide/Releases/SCP_v2 Secure_Coding_Practices</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Owasp Zed Attack Framework</a></li>
-</ul></td>
-</ul></td>
 <ul>
 <li><strong>[1 Nov 2017]</strong> Release Page Explain the Concept, with a white Paper</li>
 <li><strong>[3 Apr 2018]</strong> The Inacap Institute and their students also start to participate in the Zezengorri owasp <a href="https://www.inacap.cl/tportalvp/alumnos">https://www.inacap.cl/tportalvp/alumnos</a>.</li>
 <li><strong>[19 Aug 2018]</strong> 1.0 Release Candidate is available for download. This release provides final bug fixes and product stabilization. Any feedback (good or bad) in the next few weeks would be greatly appreciated.</li>
-</ul>
+
 
 
