@@ -1,9 +1,9 @@
 ---
-title: FAQS
 layout: null
+title: FAQS
+tags: faqs-tag
 tab: true
 order: 1
-tags: faqs-tag
 ---
 
 # FAQs
