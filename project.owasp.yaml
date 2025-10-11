@@ -1,0 +1,21 @@
+audience:
+  - builder
+leaders:
+  - name: Gustavo Nieves Arreaza
+    email: gustavo.nievesarreaza@owasp.org
+level: 2
+name: OWASP Zezengorri Code
+pitch: Description for OWASP Zezengorri Code
+repositories:
+  - name: www-project-zezengorri-code
+    url: https://github.com/OWASP/www-project-zezengorri-code
+    description: OWASP Foundation Web Repository
+  - name: OWASPZezengorri
+    url: https://github.com/VascoArreaza/OWASPZezengorri
+    description: This repository contain the library Esapi of .Net update I made for by use in visual studio 2017 and 2013
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-zezengorri-code
